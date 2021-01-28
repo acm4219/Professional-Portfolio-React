@@ -1,0 +1,12 @@
+.jumbotron-center {
+  background-color: white;
+  width: 800px;
+  height: 300px;
+  line-height: 200px;
+  position: absolute;
+  top: 50%;
+  margin-top: -100px;
+  left: 50%;
+  margin-left: -400px;
+  vertical-align: middle;
+}
